@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="https://media.rss.com/style.xsl"?>
+<rss xmlns:podcast="https://podcastindex.org/namespace/1.0"
+	xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:atom="http://www.w3.org/2005/Atom" xml:lang="en" version="2.0">
+	<channel>
+		<title><![CDATA[Test Uploading 101]]></title>
+		<link>https://rss.com/podcasts/general-xdd-kenobi</link>
+		<atom:link href="https://media.rss.com/general-xdd-kenobi/feed.xml" rel="self"
+			type="application/rss+xml" />
+		<atom:link rel="hub" href="https://pubsubhubbub.appspot.com/" />
+		<description><![CDATA[<p>Hello there!</p><p>- General Kenobi</p>]]></description>
+		<generator>RSS.com v2.12.2</generator>
+		<lastBuildDate>Thu, 01 Feb 2024 01:03:14 GMT</lastBuildDate>
+		<language>en</language>
+		<copyright><![CDATA[Kek Double You]]></copyright>
+		<itunes:image
+			href="https://media.rss.com/general-xdd-kenobi/20240201_120255_8dbc4329bdf9d8d99c41769fa785c03a.png" />
+		<podcast:guid>4bbb3907-3a0c-551c-8c2c-064137e7ee92</podcast:guid>
+		<image>
+			<url>
+				https://media.rss.com/general-xdd-kenobi/20240201_120255_8dbc4329bdf9d8d99c41769fa785c03a.png</url>
+			<title>Test Uploading 101</title>
+			<link>https://rss.com/podcasts/general-xdd-kenobi</link>
+		</image>
+		<podcast:locked>yes</podcast:locked>
+		<podcast:license>Kek Double You</podcast:license>
+		<itunes:author>Sapu</itunes:author>
+		<itunes:owner>
+			<itunes:name>Sapu</itunes:name>
+		</itunes:owner>
+		<itunes:explicit>false</itunes:explicit>
+		<itunes:type>episodic</itunes:type>
+		<itunes:category text="Technology" />
+		<item>
+			<title><![CDATA[EP1: L M A O]]></title>
+			<itunes:title><![CDATA[EP1: L M A O]]></itunes:title>
+			<description><![CDATA[<p>EP1: test uploading first thingy xdd</p>]]></description>
+			<link>https://rss.com/podcasts/general-xdd-kenobi/1326682</link>
+			<enclosure
+				url="https://media.rss.com/general-xdd-kenobi/2024_02_01_01_01_40_faa600b9-2535-41cf-8baf-e404617acb8f.mp3"
+				length="79131" type="audio/mpeg" />
+			<guid isPermaLink="false">0023622e-ba16-4b34-8963-8f6f7426e2ae</guid>
+			<itunes:duration>4</itunes:duration>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:season>1</itunes:season>
+			<podcast:season>1</podcast:season>
+			<itunes:episode>1</itunes:episode>
+			<podcast:episode>1</podcast:episode>
+			<itunes:explicit>false</itunes:explicit>
+			<pubDate>Thu, 01 Feb 2024 01:03:13 GMT</pubDate>
+			<itunes:image
+				href="https://media.rss.com/general-xdd-kenobi/ep_cover_20240201_010238_b567748ad0e4f86d731f8b056c994943.png" />
+		</item>
+	</channel>
+</rss>
