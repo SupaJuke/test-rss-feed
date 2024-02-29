@@ -1,20 +1,27 @@
 <?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title><![CDATA[Untitled RSS Feed]]></title>
-        <description><![CDATA[Untitled RSS Feed]]></description>
+        <title><![CDATA[title]]></title>
+        <description><![CDATA[description]]></description>
         <link>http://github.com/dylang/node-rss</link>
+        <image>
+            <url>https://i.imgur.com/xhL5eTy.png</url>
+            <title>title</title>
+            <link></link>
+        </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Thu, 29 Feb 2024 16:36:30 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 29 Feb 2024 16:47:20 GMT</lastBuildDate>
+        <itunes:author>Itunes owner author</itunes:author>
+        <itunes:owner>
+            <itunes:name>itunes owner name</itunes:name>
+            <itunes:email>itunes owner email</itunes:email>
+        </itunes:owner>
+        <itunes:image href="https://i.imgur.com/xhL5eTy.png"/>
         <item>
             <title><![CDATA[title]]></title>
             <description><![CDATA[description]]></description>
-            <guid isPermaLink="false">title</guid>
-            <dc:creator><![CDATA[author]]></dc:creator>
-            <itunes:owner>
-                <itunes:author>Itunes owner author</itunes:author>
-                <itunes:name>itunes owner name</itunes:name>
-                <itunes:email>itunes owner email</itunes:email>
-            </itunes:owner>
+            <link>eh?</link>
+            <guid isPermaLink="true">eh?</guid>
+            <itunes:author>Itunes owner author</itunes:author>
             <itunes:image href="https://i.imgur.com/xhL5eTy.png"/>
         </item>
     </channel>
