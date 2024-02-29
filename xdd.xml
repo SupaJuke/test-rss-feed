@@ -9,7 +9,7 @@
             <link></link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Thu, 29 Feb 2024 16:59:22 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 29 Feb 2024 17:02:49 GMT</lastBuildDate>
         <itunes:author>Itunes owner author</itunes:author>
         <itunes:owner>
             <itunes:name>itunes owner name</itunes:name>
@@ -18,8 +18,9 @@
         <item>
             <title><![CDATA[title]]></title>
             <description><![CDATA[description]]></description>
-            <link>https://rss.com/podcasts/general-xdd-kenobi/1326682</link>
-            <guid isPermaLink="true">https://rss.com/podcasts/general-xdd-kenobi/1326682</guid>
+            <link>https://raw.githubusercontent.com/SupaJuke/test-rss-feed/main/xdd.xml</link>
+            <guid isPermaLink="true">https://raw.githubusercontent.com/SupaJuke/test-rss-feed/main/xdd.xml</guid>
+            <enclosure url="https://media.rss.com/general-xdd-kenobi/2024_02_01_01_01_40_faa600b9-2535-41cf-8baf-e404617acb8f.mp3" length="0" type="audio/mpeg"/>
             <itunes:author>Itunes owner author</itunes:author>
             <itunes:image href="https://i.imgur.com/xhL5eTy.png"/>
         </item>
