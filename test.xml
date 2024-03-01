@@ -29,6 +29,7 @@
 		<itunes:author>Sapu</itunes:author>
 		<itunes:owner>
 			<itunes:name>Sapu</itunes:name>
+            <itunes:email>supajuke@gmail.com</itunes:email>
 		</itunes:owner>
 		<itunes:explicit>false</itunes:explicit>
 		<itunes:type>episodic</itunes:type>
