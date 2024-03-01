@@ -1,28 +1,38 @@
-<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
+<?xml version="1.0" encoding="UTF-8"?>
+<rss xmlns:dc="http://purl.org/dc/elements/1.1/"
+    xmlns:content="http://purl.org/rss/1.0/modules/content/"
+    xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"
+    xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
     <channel>
-        <title><![CDATA[title]]></title>
-        <description><![CDATA[title]]></description>
+        <title><![CDATA[why hello there]]></title>
+        <description><![CDATA[description]]></description>
         <link>http://github.com/dylang/node-rss</link>
         <image>
             <url>https://i.imgur.com/xhL5eTy.png</url>
-            <title>title</title>
+            <title>why hello there</title>
             <link></link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Thu, 29 Feb 2024 23:07:02 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 01 Mar 2024 02:14:10 GMT</lastBuildDate>
+        <atom:link href="https://raw.githubusercontent.com/SupaJuke/test-rss-feed/main/xdd.xml"
+            rel="self" type="application/rss+xml" />
         <itunes:author>Itunes owner author</itunes:author>
         <itunes:owner>
             <itunes:name>itunes owner name</itunes:name>
             <itunes:email>supajuke@gmail.com</itunes:email>
         </itunes:owner>
         <item>
-            <title><![CDATA[title]]></title>
+            <title><![CDATA[why hello there ep 1]]></title>
             <description><![CDATA[description]]></description>
-            <link>https://raw.githubusercontent.com/SupaJuke/test-rss-feed/main/xdd.xml</link>
-            <guid isPermaLink="true">https://raw.githubusercontent.com/SupaJuke/test-rss-feed/main/xdd.xml</guid>
-            <enclosure url="https://media.rss.com/general-xdd-kenobi/2024_02_01_01_01_40_faa600b9-2535-41cf-8baf-e404617acb8f.mp3" length="0" type="audio/mpeg"/>
+            <link>
+                https://dl.dropboxusercontent.com/scl/fi/i7pat31l187hthxhrekdu/xdd.m4a?rlkey=a07ulftoylw47r6pxzabt03nb&amp;dl=0</link>
+            <guid isPermaLink="true">
+                https://dl.dropboxusercontent.com/scl/fi/i7pat31l187hthxhrekdu/xdd.m4a?rlkey=a07ulftoylw47r6pxzabt03nb&amp;dl=0</guid>
+            <enclosure
+                url="https://dl.dropboxusercontent.com/scl/fi/i7pat31l187hthxhrekdu/xdd.m4a?rlkey=a07ulftoylw47r6pxzabt03nb&amp;dl=0"
+                length="0" type="audio/mpeg" />
             <itunes:author>Itunes owner author</itunes:author>
-            <itunes:image href="https://i.imgur.com/xhL5eTy.png"/>
+            <itunes:image href="https://i.imgur.com/xhL5eTy.png" />
         </item>
     </channel>
 </rss>
