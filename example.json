@@ -13,6 +13,22 @@
           { "itunes:name": "itunes owner name" },
           { "itunes:email": "supajuke@gmail.com" }
         ]
+      },
+      {
+        "itunes:image": {
+          "_attr": {
+            "href": "http://example.com/podcasts/everything/AllAboutEverything.jpg"
+          }
+        }
+      },
+      {
+        "itunes:category": [
+          {
+            "_attr": {
+              "text": "Technology"
+            }
+          }
+        ]
       }
     ]
   },
