@@ -1,0 +1,61 @@
+{
+  "feedOptions": {
+    "title": "title",
+    "description": "description",
+    "image_url": "https://i.imgur.com/xhL5eTy.png",
+    "custom_namespaces": {
+      "itunes": "http://www.itunes.com/dtds/podcast-1.0.dtd"
+    },
+    "custom_elements": [
+      { "itunes:author": "Itunes owner author" },
+      {
+        "itunes:owner": [
+          { "itunes:name": "itunes owner name" },
+          { "itunes:email": "supajuke@gmail.com" }
+        ]
+      }
+    ]
+  },
+  "feedItems": [
+    {
+      "title": "ep1",
+      "categories": [],
+      "description": "description",
+      "url": "https://raw.githubusercontent.com/SupaJuke/test-rss-feed/main/xdd.xml",
+      "enclosure": {
+        "url": "https://media.rss.com/general-xdd-kenobi/2024_02_01_01_01_40_faa600b9-2535-41cf-8baf-e404617acb8f.mp3",
+        "type": "audio/mpeg"
+      },
+      "custom_elements": [
+        { "itunes:author": "Itunes owner author" },
+        {
+          "itunes:image": {
+            "_attr": {
+              "href": "https://i.imgur.com/xhL5eTy.png"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "title": "ep2",
+      "categories": [],
+      "description": "description",
+      "url": "https://raw.githubusercontent.com/SupaJuke/test-rss-feed/main/xdd.xml",
+      "enclosure": {
+        "url": "https://media.rss.com/general-xdd-kenobi/2024_02_01_01_01_40_faa600b9-2535-41cf-8baf-e404617acb8f.mp3",
+        "type": "audio/mpeg"
+      },
+      "custom_elements": [
+        { "itunes:author": "Itunes owner author" },
+        {
+          "itunes:image": {
+            "_attr": {
+              "href": "https://i.imgur.com/xhL5eTy.png"
+            }
+          }
+        }
+      ]
+    }
+  ]
+}
