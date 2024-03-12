@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"
+	xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd"
+	xmlns:psc="http://podlove.org/simple-chapters"
+	xmlns:podcast="https://podcastindex.org/namespace/1.0">
+	<channel>
+		<title><![CDATA[Feed Title]]></title>
+		<description><![CDATA[Feed Description]]></description>
+		<link>http://github.com/dylang/node-rss</link>
+		<generator>DubbLabs</generator>
+		<lastBuildDate>Tue, 12 Mar 2024 23:25:43 GMT</lastBuildDate>
+		<atom:link href="https://media.rss.com/general-xdd-kenobi/feed.xml" rel="self"
+			type="application/rss+xml" />
+		<itunes:author>Author</itunes:author>
+		<itunes:summary>Feed Description</itunes:summary>
+		<itunes:owner>
+			<itunes:name>Owner</itunes:name>
+			<itunes:email>supajuke@gmail.com</itunes:email>
+		</itunes:owner>
+		<itunes:explicit>false</itunes:explicit>
+		<itunes:category text="Technology" />
+		<itunes:image href="https://imgur.com/UFefn1k.jpeg" />
+		<item>
+			<title><![CDATA[Episode x Title]]></title>
+			<description><![CDATA[Episode x Description]]></description>
+			<link>
+				https://dl.dropboxusercontent.com/scl/fi/i7pat31l187hthxhrekdu/xdd.m4a?rlkey=a07ulftoylw47r6pxzabt03nb&amp;amp;dl=0</link>
+			<guid isPermaLink="true">
+				https://dl.dropboxusercontent.com/scl/fi/i7pat31l187hthxhrekdu/xdd.m4a?rlkey=a07ulftoylw47r6pxzabt03nb&amp;amp;dl=0</guid>
+			<enclosure
+				url="https://dl.dropboxusercontent.com/scl/fi/i7pat31l187hthxhrekdu/xdd.m4a?rlkey=a07ulftoylw47r6pxzabt03nb&amp;amp;dl=0"
+				length="0" type="audio/mpeg" />
+			<itunes:author>Itunes author</itunes:author>
+			<itunes:summary>Episode x Description</itunes:summary>
+			<itunes:explicit>false</itunes:explicit>
+			<itunes:image href="https://imgur.com/UFefn1k.jpeg" />
+			<itunes:season>1</itunes:season>
+			<itunes:episode>1</itunes:episode>
+		</item>
+	</channel>
+</rss>
