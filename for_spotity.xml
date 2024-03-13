@@ -11,7 +11,9 @@
 		<link>http://github.com/dylang/node-rss</link>
 		<generator>DubbLabs</generator>
 		<lastBuildDate>Tue, 12 Mar 2024 23:25:43 GMT</lastBuildDate>
-		<atom:link href="https://media.rss.com/general-xdd-kenobi/feed.xml" rel="self"
+		<atom:link
+			href="https://raw.githubusercontent.com/SupaJuke/test-rss-feed/main/for_spotity.xml"
+			rel="self"
 			type="application/rss+xml" />
 		<itunes:author>Author</itunes:author>
 		<itunes:summary>Feed Description</itunes:summary>
